@@ -1,0 +1,1 @@
+npx hardhat verify YOUR_CONTRACT_ADDRESS --network rinkeby 
